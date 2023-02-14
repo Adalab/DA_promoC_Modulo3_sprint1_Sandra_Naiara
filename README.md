@@ -1,14 +1,4 @@
-# EJERCICIOS DE NAIARA Y SANDRA MACHINE LEARNING
-
-## Indice 	
-
-  1. [Información general](#informacion-general)
-  2. [Lecciones](#lecciones)
-
-# Información general
-
-
-Este repositorio contiene nuestro trabajo realizado en el modulo 3 Sprint 1:
+# EJERCICIOS DE REGRESIÓN LINEAL Y REGRESIÓN LOGÍSTICA
 
 ## Lecciones :
 
@@ -36,4 +26,21 @@ Este repositorio contiene nuestro trabajo realizado en el modulo 3 Sprint 1:
             05. Decision Tree
             06. Random Forest
             
+## Librerías 
 
+Se necesitarán las librerias:
+```
+numpy
+pandas
+seaborn
+matplotlib.pyplot
+scipy
+random
+researchpy
+math
+sklearn
+statsmodels
+tqdm
+imblearn
+
+```
